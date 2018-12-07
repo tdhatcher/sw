@@ -7,4 +7,8 @@ component {
     public void newMethodDefinedByHB() {
         return true;
     }
+    
+    public void newMethodDefinedBySW() {
+        return false;
+    }
 }
