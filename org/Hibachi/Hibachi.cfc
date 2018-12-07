@@ -9,6 +9,7 @@ component {
     }
     
     public void newMethodDefinedBySW() {
+        var addedNewChangeFlag = true;
         return false;
     }
 }
