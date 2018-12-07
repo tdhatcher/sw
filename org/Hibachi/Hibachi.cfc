@@ -4,4 +4,7 @@ component {
         this.application;
     }
     
+    public void newMethodDefinedByHB() {
+        return true;
+    }
 }
